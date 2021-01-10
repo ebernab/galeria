@@ -1,0 +1,18 @@
+*{
+    background-color: #D9D9D9;
+    font-family: 'Arial';
+}
+#div1{height: 100px;
+margin: 10px;
+text-align: center;
+background-color: white;}
+
+#div2{margin: 30px;
+padding: 10px;
+background-color: white;
+margin-top: 1px;
+}
+#div2.1{margin: 30px;
+    padding: 10px;
+    background-color: #D9D9D9;
+}
